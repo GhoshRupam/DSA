@@ -1,32 +1,72 @@
 # Data Structures and Algorithms in C++ - Resources
 
 This section provides a list of resources that can help you learn more about data structures and algorithms in C++. Click on the links to access the resources.
+Data Structures
+Arrays
 
-## Books
+GeeksforGeeks - Arrays
+C++ Reference - Arrays
+mycodeschool - Array Playlist
+Linked Lists
 
-1. [Introduction to Algorithms (CLRS)](https://www.amazon.com/Introduction-Algorithms-Thomas-H-Cormen/dp/0262533057)
-2. [Data Structures and Algorithm Analysis in C++](https://www.amazon.com/Data-Structures-Algorithm-Analysis-C/dp/013284737X)
+GeeksforGeeks - Linked List
+Stanford University - Singly Linked Lists
+mycodeschool - Linked List Playlist
+Stacks
 
-## Online Courses
+GeeksforGeeks - Stack Data Structure
+Programiz - C++ Stack
+mycodeschool - Stack Playlist
+Queues
 
-1. [Coursera - Algorithms Specialization](https://www.coursera.org/specializations/algorithms)
-2. [edX - Data Structures and Software Design](https://www.edx.org/professional-certificate/hkustx-data-structures-and-software-design)
+GeeksforGeeks - Queue Data Structure
+Tutorialspoint - C++ Queue
+mycodeschool - Queue Playlist
+Trees
 
-## Websites
+GeeksforGeeks - Binary Trees
+Cprogramming.com - Binary Trees
+mycodeschool - Tree Playlist
+Graphs
 
-1. [GeeksforGeeks](https://www.geeksforgeeks.org/)
-2. [LeetCode](https://leetcode.com/)
-3. [HackerRank](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript)
+GeeksforGeeks - Graph Data Structure
+Brilliant.org - Graphs
+mycodeschool - Graph Playlist
+Hash Tables
 
-## YouTube Channels
+GeeksforGeeks - Hashing
+Stanford University - Hash Tables
+mycodeschool - Hash Table Playlist
+Heaps
 
-1. [mycodeschool](https://www.youtube.com/user/mycodeschool)
-2. [GeeksforGeeks](https://www.youtube.com/user/geeksforgeek)
+GeeksforGeeks - Heap Data Structure
+HackerEarth - Heap Tutorial
+mycodeschool - Heap Playlist
+Algorithms
+Sorting Algorithms
 
-## Tutorials
+GeeksforGeeks - Sorting Algorithms
+Visualgo - Sorting Algorithms Visualization
+mycodeschool - Sorting Algorithms Playlist
+Search Algorithms
 
-1. [C++ Data Structures and Algorithms](https://www.cplusplus.com/doc/tutorial/)
-2. [Introduction to Algorithms in C/C++](https://www.tutorialspoint.com/data_structures_algorithms/index.htm)
+GeeksforGeeks - Searching Algorithms
+Khan Academy - Binary Search
+mycodeschool - Searching Algorithms Playlist
+Dynamic Programming
 
+GeeksforGeeks - Dynamic Programming
+TopCoder - Dynamic Programming
+mycodeschool - Dynamic Programming Playlist
+Greedy Algorithms
+
+GeeksforGeeks - Greedy Algorithms
+Stanford University - Greedy Algorithms
+mycodeschool - Greedy Algorithms Playlist
+Backtracking
+
+GeeksforGeeks - Backtracking
+HackerRank - Backtracking Tutorial
+mycodeschool - Backtracking Algorithms Playlist
 Feel free to explore these resources to enhance your understanding of data structures and algorithms in C++. Happy learning!
 
